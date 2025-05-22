@@ -14,7 +14,7 @@
 | Australia | ABC News, Sydney Morning Herald | 23 | Since 2022 |
 | Canada | CBC News, The Globe and Mail | 21 | Since 2022 |
 | Germany | Deutsche Welle, Der Spiegel | 22 | Since 2021 |
-| France | Le Monde, France 24 | 690 | Since 2022 |
+| France | Le Monde, France 24 | 32 | Since 2022 |
 | Middle East | Al Jazeera, Al Arabiya | 24 | Since 2021 |
 | Brazil | Globo, Folha de S.Paulo | 21 | Since 2022 |
 | Russia | RT, TASS | 21 | Since 2021 |
